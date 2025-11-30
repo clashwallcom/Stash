@@ -1,6 +1,10 @@
 # Stash 科学上网资源下载
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="Stash" src="https://github.com/user-attachments/assets/50d14f8a-5a3b-4052-835b-7dffe01d58cb" />
+</div>
+<br>
 
 ## :memo: Stash 节点资源
 
